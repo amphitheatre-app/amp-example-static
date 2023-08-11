@@ -1,0 +1,15 @@
+name = "amp-example-static"
+version = "0.0.1"
+authors = ["Eguo Wang <wangeguo@gmail.com>"]
+edition = "v1"
+description = "A static website"
+readme = "README.md"
+homepage = "https://github.com/amphitheatre-app/amp-example-static"
+repository = "https://github.com/amphitheatre-app/amp-example-static"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["example", "static", "getting-started"]
+categories = ["example"]
+
+[build]
+dockerfile = "Dockerfile"
